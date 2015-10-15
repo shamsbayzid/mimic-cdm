@@ -6,7 +6,7 @@
 ## Mapping
 Here we list the MIMIC II source tables that we have used to generate OMOP CDM v.5 target tables.
 
-| Target Table     | MIMIC II Source Tables 
+| OMOP CDM Target Table     | MIMIC II Source Tables 
 | --------|---------
 | person  | d_patients
 | death | d_patients 
