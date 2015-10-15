@@ -4,7 +4,7 @@
 >  **This implementation is under active development and is not at all ready to be used for general purpose.** We have made this repository public so that people can contribute to this effort. We have uploaded the SQL queries, and we appreciate your suggestion to improve the ETL implementation.
 
 ## Mapping
-Here we list the MIMIC II source tables that we have used to generate a OMOP CDM v.5 target table.
+Here we list the MIMIC II source tables that we have used to generate OMOP CDM v.5 target tables.
 
 | Target Table     | MIMIC II Source Tables 
 | --------|---------
