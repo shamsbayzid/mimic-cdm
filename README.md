@@ -24,6 +24,7 @@ Here we list the MIMIC II source tables that we have used to generate a OMOP CDM
 * Condition: ICD-9
 * Measurement: LOINC
 * Procedure: ICD9-CM procedure codes
+
 > We are using [concept 0 shortcut]( http://www.ohdsi.org/web/hermes/#/concept/0) for now, where 0 means unmapped concept. We will update the concept_ids later.
 
 ### Contact
