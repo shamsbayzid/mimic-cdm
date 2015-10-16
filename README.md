@@ -1,5 +1,5 @@
 # MIMIC-CDM
-[OMOP CDM](http://omop.org/CDM) conversion of [MIMIC II clinical demo dataset](http://physionet.org/mimic2/demo/).  This is a PostgreSQL-based implementation of the ETL specification designed to generate CDM v5-compatible CSV files.
+This is an ETL implementation for [OMOP CDM](http://omop.org/CDM) conversion of [MIMIC II clinical demo dataset](http://physionet.org/mimic2/demo/).  This is a PostgreSQL-based implementation of the ETL specification designed to generate CDM v5-compatible CSV files.
 
 >  **This implementation is under active development and is not at all ready to be used for general purpose.** We have made this public so that people can contribute to this effort. We have uploaded the SQL queries, and will appreciate your suggestions to improve the ETL implementation.
 
