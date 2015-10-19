@@ -16,9 +16,10 @@ Here we list the MIMIC II source tables that have been used to generate OMOP CDM
 | procedure_occurrence | procedureevents, d_codeditems
 | drug_exposure | medevents, d_meditems
 | measurement | d_labitems, labevents
+| specimen | d_labitems, labevents
 | note | noteevents
 | provider | d_caregivers
-
+| care_site | d_careunits
 
 **Source code terminologies**
 
